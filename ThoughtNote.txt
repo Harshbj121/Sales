@@ -1,0 +1,2 @@
+While creating this app i use Sweetalert2 for displaying alert , State hooks , useNavigate to navigate to other page  , mongoose for connecting , retriving and storing data in mongodb, bcryptjs for storing password as hash , jsonwebtoken for authorization , bootstrap classes for creating frontend .
+I have deleted node modules folder from my-app , please install required npm packages before running the app to overcome any problems if occur
