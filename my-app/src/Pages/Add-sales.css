@@ -1,0 +1,9 @@
+.sales-container{
+    width: 80vw !important;
+}
+
+@media only screen and (max-width: 991px) {
+    .sales-container{
+        width: 100vw !important;
+    }
+}
